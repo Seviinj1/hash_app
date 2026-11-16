@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 /[0-9]*.txt
+/[0-9]*.chain
